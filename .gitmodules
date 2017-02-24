@@ -1,0 +1,3 @@
+[submodule "purescript-book"]
+	path = purescript-book
+	url = https://github.com/paf31/purescript-book
